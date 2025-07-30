@@ -21,6 +21,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/diyam3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -42,4 +43,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/diyam3/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
