@@ -8,6 +8,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diyam3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1580-shuffle-the-array](https://github.com/diyam3/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1791-richest-customer-wealth](https://github.com/diyam3/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
