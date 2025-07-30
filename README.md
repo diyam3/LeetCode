@@ -8,6 +8,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diyam3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/diyam3/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/diyam3/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -44,6 +45,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
@@ -61,4 +63,12 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Sorting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
