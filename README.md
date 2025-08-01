@@ -15,6 +15,7 @@ LeetCode solutions in Java.
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/diyam3/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Math
@@ -31,6 +32,7 @@ LeetCode solutions in Java.
 | [0020-valid-parentheses](https://github.com/diyam3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
+| [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Simulation
 |  |
