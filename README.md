@@ -7,6 +7,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -65,6 +66,7 @@ LeetCode solutions in Java.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
