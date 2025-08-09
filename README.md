@@ -8,6 +8,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
+| [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/diyam3/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -52,6 +53,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
+| [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/diyam3/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/diyam3/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -84,6 +86,7 @@ LeetCode solutions in Java.
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/diyam3/LeetCode/tree/master/0898-transpose-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/diyam3/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
