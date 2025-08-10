@@ -38,6 +38,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -128,4 +129,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
