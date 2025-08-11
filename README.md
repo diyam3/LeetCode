@@ -11,6 +11,7 @@ LeetCode solutions in Java.
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/diyam3/LeetCode/tree/master/0898-transpose-matrix) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -133,4 +134,5 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
+| [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
