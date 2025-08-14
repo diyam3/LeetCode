@@ -57,6 +57,7 @@ LeetCode solutions in Java.
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/diyam3/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Simulation
 |  |
 | ------- |
