@@ -41,6 +41,7 @@ LeetCode solutions in Java.
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -63,6 +64,7 @@ LeetCode solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
@@ -140,4 +142,8 @@ LeetCode solutions in Java.
 | ------- |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
