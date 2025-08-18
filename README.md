@@ -40,6 +40,7 @@ LeetCode solutions in Java.
 | [0009-palindrome-number](https://github.com/diyam3/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
@@ -56,6 +57,7 @@ LeetCode solutions in Java.
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/diyam3/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/diyam3/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -64,6 +66,7 @@ LeetCode solutions in Java.
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -123,6 +126,7 @@ LeetCode solutions in Java.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
