@@ -46,6 +46,7 @@ LeetCode solutions in Java.
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/diyam3/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/diyam3/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/diyam3/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -148,6 +149,7 @@ LeetCode solutions in Java.
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
+| [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/diyam3/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 ## Number Theory
 |  |
 | ------- |
