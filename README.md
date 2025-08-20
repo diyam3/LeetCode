@@ -34,6 +34,7 @@ LeetCode solutions in Java.
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diyam3/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +99,7 @@ LeetCode solutions in Java.
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/diyam3/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/diyam3/LeetCode/tree/master/1983-maximum-population-year) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Stack
 |  |
 | ------- |
@@ -112,6 +114,7 @@ LeetCode solutions in Java.
 | [1677-matrix-diagonal-sum](https://github.com/diyam3/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1791-richest-customer-wealth](https://github.com/diyam3/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diyam3/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 ## Counting
 |  |
 | ------- |
