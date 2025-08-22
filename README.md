@@ -44,6 +44,7 @@ LeetCode solutions in Java.
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
@@ -85,6 +86,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ LeetCode solutions in Java.
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
