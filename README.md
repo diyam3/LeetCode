@@ -46,6 +46,7 @@ LeetCode solutions in Java.
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/diyam3/LeetCode/tree/master/0263-ugly-number) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
