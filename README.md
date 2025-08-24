@@ -11,6 +11,7 @@ LeetCode solutions in Java.
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
@@ -47,6 +48,7 @@ LeetCode solutions in Java.
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/diyam3/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -96,6 +98,7 @@ LeetCode solutions in Java.
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -131,6 +134,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -140,6 +144,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
@@ -159,6 +164,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/diyam3/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
