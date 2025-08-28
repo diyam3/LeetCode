@@ -53,6 +53,7 @@ LeetCode solutions in Java.
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/diyam3/LeetCode/tree/master/0507-perfect-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/diyam3/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
