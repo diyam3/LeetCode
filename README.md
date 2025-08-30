@@ -10,6 +10,7 @@ LeetCode solutions in Java.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
@@ -153,6 +154,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
