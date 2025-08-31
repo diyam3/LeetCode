@@ -156,6 +156,7 @@ LeetCode solutions in Java.
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
+| [0476-number-complement](https://github.com/diyam3/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 ## Divide and Conquer
 |  |
