@@ -80,6 +80,7 @@ LeetCode solutions in Java.
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/diyam3/LeetCode/tree/master/0520-detect-capital) |
+| [0742-to-lower-case](https://github.com/diyam3/LeetCode/tree/master/0742-to-lower-case) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diyam3/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
