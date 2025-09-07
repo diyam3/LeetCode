@@ -55,6 +55,7 @@ LeetCode solutions in Java.
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/diyam3/LeetCode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/diyam3/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/diyam3/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -175,6 +176,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
+| [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -197,4 +199,12 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/diyam3/LeetCode/tree/master/2507-number-of-common-factors) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
