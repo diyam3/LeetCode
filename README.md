@@ -12,6 +12,7 @@ LeetCode solutions in Java.
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -116,6 +117,7 @@ LeetCode solutions in Java.
 | [0013-roman-to-integer](https://github.com/diyam3/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
+| [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -146,12 +148,14 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/diyam3/LeetCode/tree/master/1983-maximum-population-year) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
