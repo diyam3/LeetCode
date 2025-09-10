@@ -40,6 +40,7 @@ LeetCode solutions in Java.
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +88,7 @@ LeetCode solutions in Java.
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diyam3/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Simulation
 |  |
 | ------- |
