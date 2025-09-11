@@ -89,6 +89,7 @@ LeetCode solutions in Java.
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diyam3/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/diyam3/LeetCode/tree/master/3379-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
