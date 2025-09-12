@@ -69,6 +69,7 @@ LeetCode solutions in Java.
 | [1448-maximum-69-number](https://github.com/diyam3/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2507-number-of-common-factors](https://github.com/diyam3/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2556-convert-the-temperature](https://github.com/diyam3/LeetCode/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/diyam3/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3371-harshad-number](https://github.com/diyam3/LeetCode/tree/master/3371-harshad-number) |
 ## String
