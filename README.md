@@ -41,6 +41,7 @@ LeetCode solutions in Java.
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diyam3/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
 |  |
 | ------- |
@@ -73,6 +74,7 @@ LeetCode solutions in Java.
 | [2608-count-the-digits-that-divide-a-number](https://github.com/diyam3/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2812-find-the-maximum-achievable-number](https://github.com/diyam3/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3371-harshad-number](https://github.com/diyam3/LeetCode/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diyam3/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## String
 |  |
 | ------- |
