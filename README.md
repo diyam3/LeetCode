@@ -70,6 +70,7 @@ LeetCode solutions in Java.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/diyam3/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/diyam3/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2383-add-two-integers](https://github.com/diyam3/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/diyam3/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/diyam3/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/diyam3/LeetCode/tree/master/2556-convert-the-temperature) |
