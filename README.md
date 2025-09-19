@@ -55,6 +55,7 @@ LeetCode solutions in Java.
 | [0263-ugly-number](https://github.com/diyam3/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/diyam3/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/diyam3/LeetCode/tree/master/0507-perfect-number) |
@@ -180,6 +181,7 @@ LeetCode solutions in Java.
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/diyam3/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/diyam3/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/diyam3/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
