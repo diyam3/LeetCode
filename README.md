@@ -41,6 +41,7 @@ LeetCode solutions in Java.
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diyam3/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diyam3/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Math
@@ -124,6 +125,7 @@ LeetCode solutions in Java.
 | [0344-reverse-string](https://github.com/diyam3/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/diyam3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diyam3/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,6 +175,7 @@ LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diyam3/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
 |  |
 | ------- |
@@ -210,6 +213,7 @@ LeetCode solutions in Java.
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
 | [1295-minimum-garden-perimeter-to-collect-enough-apples](https://github.com/diyam3/LeetCode/tree/master/1295-minimum-garden-perimeter-to-collect-enough-apples) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diyam3/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
 | ------- |
