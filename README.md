@@ -53,6 +53,7 @@ LeetCode solutions in Java.
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/diyam3/LeetCode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/diyam3/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/diyam3/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
@@ -187,6 +188,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0067-add-binary](https://github.com/diyam3/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/diyam3/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/diyam3/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/diyam3/LeetCode/tree/master/0476-number-complement) |
@@ -229,6 +231,7 @@ LeetCode solutions in Java.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/diyam3/LeetCode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
