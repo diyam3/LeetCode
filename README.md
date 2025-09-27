@@ -58,6 +58,7 @@ LeetCode solutions in Java.
 | [0263-ugly-number](https://github.com/diyam3/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/diyam3/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/diyam3/LeetCode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/diyam3/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
@@ -193,6 +194,7 @@ LeetCode solutions in Java.
 | [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/diyam3/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/diyam3/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/diyam3/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/diyam3/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
@@ -237,6 +239,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0231-power-of-two](https://github.com/diyam3/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/diyam3/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/diyam3/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
