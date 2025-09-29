@@ -42,6 +42,7 @@ LeetCode solutions in Java.
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diyam3/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/diyam3/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2508-maximum-sum-of-an-hourglass](https://github.com/diyam3/LeetCode/tree/master/2508-maximum-sum-of-an-hourglass) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/diyam3/LeetCode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -105,6 +106,7 @@ LeetCode solutions in Java.
 | [0742-to-lower-case](https://github.com/diyam3/LeetCode/tree/master/0742-to-lower-case) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/diyam3/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/diyam3/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/diyam3/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/diyam3/LeetCode/tree/master/3379-score-of-a-string) |
@@ -122,6 +124,7 @@ LeetCode solutions in Java.
 | [1505-create-target-array-in-the-given-order](https://github.com/diyam3/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/diyam3/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
