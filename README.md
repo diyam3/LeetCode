@@ -35,6 +35,7 @@ LeetCode solutions in Java.
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1677-matrix-diagonal-sum](https://github.com/diyam3/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/diyam3/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/diyam3/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -104,6 +105,7 @@ LeetCode solutions in Java.
 | [0557-reverse-words-in-a-string-iii](https://github.com/diyam3/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/diyam3/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/diyam3/LeetCode/tree/master/0742-to-lower-case) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diyam3/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -149,6 +151,7 @@ LeetCode solutions in Java.
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/diyam3/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
 |  |
@@ -178,6 +181,7 @@ LeetCode solutions in Java.
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/diyam3/LeetCode/tree/master/1983-maximum-population-year) |
 ## Sorting
 |  |
@@ -206,6 +210,7 @@ LeetCode solutions in Java.
 | [0476-number-complement](https://github.com/diyam3/LeetCode/tree/master/0476-number-complement) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/diyam3/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Divide and Conquer
 |  |
 | ------- |
