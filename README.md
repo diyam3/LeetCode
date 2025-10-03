@@ -91,6 +91,7 @@ LeetCode solutions in Java.
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/diyam3/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3371-harshad-number](https://github.com/diyam3/LeetCode/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/diyam3/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3830-find-closest-person](https://github.com/diyam3/LeetCode/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |
