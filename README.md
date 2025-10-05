@@ -109,6 +109,7 @@ LeetCode solutions in Java.
 | [0557-reverse-words-in-a-string-iii](https://github.com/diyam3/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/diyam3/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0742-to-lower-case](https://github.com/diyam3/LeetCode/tree/master/0742-to-lower-case) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/diyam3/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/diyam3/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
@@ -185,6 +186,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/diyam3/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/diyam3/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/diyam3/LeetCode/tree/master/1983-maximum-population-year) |
@@ -233,6 +235,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/diyam3/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/diyam3/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/diyam3/LeetCode/tree/master/1448-maximum-69-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diyam3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
