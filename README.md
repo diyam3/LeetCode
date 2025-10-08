@@ -8,6 +8,7 @@ LeetCode solutions in Java.
 | ------- |
 | [0001-two-sum](https://github.com/diyam3/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/diyam3/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/diyam3/LeetCode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/diyam3/LeetCode/tree/master/0066-plus-one) |
@@ -140,6 +141,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/diyam3/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/diyam3/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
