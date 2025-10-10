@@ -41,6 +41,7 @@ LeetCode solutions in Java.
 | [1791-richest-customer-wealth](https://github.com/diyam3/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/diyam3/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1899-count-items-matching-a-rule](https://github.com/diyam3/LeetCode/tree/master/1899-count-items-matching-a-rule) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/diyam3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1983-maximum-population-year](https://github.com/diyam3/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/diyam3/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -85,6 +86,7 @@ LeetCode solutions in Java.
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/diyam3/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/diyam3/LeetCode/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/diyam3/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/diyam3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/diyam3/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/diyam3/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/diyam3/LeetCode/tree/master/2507-number-of-common-factors) |
@@ -135,6 +137,7 @@ LeetCode solutions in Java.
 | [0898-transpose-matrix](https://github.com/diyam3/LeetCode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/diyam3/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/diyam3/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/diyam3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/diyam3/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/diyam3/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/diyam3/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -271,6 +274,7 @@ LeetCode solutions in Java.
 | [0326-power-of-three](https://github.com/diyam3/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/diyam3/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/diyam3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
 | ------- |
@@ -283,4 +287,8 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/diyam3/LeetCode/tree/master/0292-nim-game) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/diyam3/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
