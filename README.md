@@ -74,6 +74,7 @@ LeetCode solutions in Java.
 | [0371-sum-of-two-integers](https://github.com/diyam3/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/diyam3/LeetCode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/diyam3/LeetCode/tree/master/0507-perfect-number) |
 | [0728-self-dividing-numbers](https://github.com/diyam3/LeetCode/tree/master/0728-self-dividing-numbers) |
 | [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
@@ -112,6 +113,7 @@ LeetCode solutions in Java.
 | [0345-reverse-vowels-of-a-string](https://github.com/diyam3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/diyam3/LeetCode/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/diyam3/LeetCode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/diyam3/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/diyam3/LeetCode/tree/master/0680-valid-palindrome-ii) |
