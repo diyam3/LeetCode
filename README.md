@@ -17,6 +17,7 @@ LeetCode solutions in Java.
 | [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/diyam3/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
@@ -212,6 +213,7 @@ LeetCode solutions in Java.
 | [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/diyam3/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/diyam3/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diyam3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -219,6 +221,7 @@ LeetCode solutions in Java.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/diyam3/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/diyam3/LeetCode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/diyam3/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/diyam3/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -248,6 +251,7 @@ LeetCode solutions in Java.
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/diyam3/LeetCode/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/diyam3/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/diyam3/LeetCode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/diyam3/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
