@@ -16,6 +16,7 @@ LeetCode solutions in Java.
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/diyam3/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/diyam3/LeetCode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/diyam3/LeetCode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/diyam3/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -156,6 +157,7 @@ LeetCode solutions in Java.
 | [0031-next-permutation](https://github.com/diyam3/LeetCode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/diyam3/LeetCode/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/diyam3/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/diyam3/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/diyam3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/diyam3/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
