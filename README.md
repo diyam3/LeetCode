@@ -16,6 +16,7 @@ LeetCode solutions in Java.
 | [0136-single-number](https://github.com/diyam3/LeetCode/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/diyam3/LeetCode/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/diyam3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/diyam3/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/diyam3/LeetCode/tree/master/0283-move-zeroes) |
@@ -186,6 +187,7 @@ LeetCode solutions in Java.
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/diyam3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/diyam3/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/diyam3/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/diyam3/LeetCode/tree/master/1983-maximum-population-year) |
@@ -273,6 +275,7 @@ LeetCode solutions in Java.
 | [0004-median-of-two-sorted-arrays](https://github.com/diyam3/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/diyam3/LeetCode/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/diyam3/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/diyam3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/diyam3/LeetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/diyam3/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/diyam3/LeetCode/tree/master/0792-binary-search) |
@@ -325,4 +328,8 @@ LeetCode solutions in Java.
 | [0083-remove-duplicates-from-sorted-list](https://github.com/diyam3/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/diyam3/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/diyam3/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/diyam3/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
