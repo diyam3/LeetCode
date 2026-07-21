@@ -116,6 +116,7 @@ LeetCode solutions in Java.
 | [0125-valid-palindrome](https://github.com/diyam3/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/diyam3/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/diyam3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/diyam3/LeetCode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/diyam3/LeetCode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/diyam3/LeetCode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/diyam3/LeetCode/tree/master/0504-base-7) |
@@ -163,6 +164,7 @@ LeetCode solutions in Java.
 | [0283-move-zeroes](https://github.com/diyam3/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/diyam3/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/diyam3/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/diyam3/LeetCode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/diyam3/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/diyam3/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0861-flipping-an-image](https://github.com/diyam3/LeetCode/tree/master/0861-flipping-an-image) |
@@ -254,6 +256,7 @@ LeetCode solutions in Java.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/diyam3/LeetCode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/diyam3/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/diyam3/LeetCode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
